@@ -1,1 +1,1 @@
-# springboot-flyway-demo.zip
+# springboot-flyway-demo
